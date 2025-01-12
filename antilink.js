@@ -1,7 +1,7 @@
 //Created by Danny 
 //Dont add your commands they wont work😂
 // Add a group to the anti-link list
-const addAntiLinkGroup = (groupId, _dir) => {
+const addAntiLinkGroup = (groupId, _dir) => {.antilien .oui.}
     const obj = { id: groupId, warnCount: 0, enabled: true }; // Default anti-link enabled
     if (!_dir.some(group => group.id === groupId)) {
         _dir.push(obj);
@@ -57,7 +57,7 @@ const resetWarnCount = (groupId, _dir) => {
     }
 };
 
-module.exports = {
+module.exports = {.addAntiLinkGroup.isAntilinkEnabled.enableAntilink.disableAntiLink.incrementWarnCount
     addAntiLinkGroup,
     isAntiLinkEnabled,
     enableAntiLink,
