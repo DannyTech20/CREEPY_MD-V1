@@ -1,4 +1,4 @@
-//Created by Danny 
+//Created by Marvo 
 //Dont clone cause if i catch you i will flag you immediately 
 //contact me wa.me/255697608274
 
@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "256753959924"
+global.ownername = "Marvo"
+global.ownernumber = '256753959924'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -26,7 +26,7 @@ global.anti91 = false //auto block +91
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
-global.reactEmoji = '😂'; // Default reaction emoji
+global.reactEmoji = '🤪'; // Default reaction emoji
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
 //https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
@@ -55,24 +55,24 @@ global.mess = {
 
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
-global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.location = "Arusha/Uganda";
+global.ownername = "MARVO";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
 global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.author = "Marvo";
 
 // Console view/theme
 global.themeemoji = "🤖";
-global.wm = "Danny";
+global.wm = "Marvo";
 
 global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
 
 global.typemenu = "v1";
 
 global.xbugtex = {
-    xtxt: "Danny🤖",
+    xtxt: "Marvo🤖",
 };
 
 
